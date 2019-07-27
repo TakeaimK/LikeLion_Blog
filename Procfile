@@ -1,1 +1,1 @@
-web: gunicorn LikeLion_Blog.wsgi --log-file -
+web: gunicorn project.wsgi --log-file -
